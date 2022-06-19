@@ -1,1 +1,2 @@
 # djangomodels
+zuri task 
